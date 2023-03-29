@@ -1,0 +1,11 @@
+@media (max-width: 600px) {
+    .facet_sidebar {
+      display: none;
+    }
+  } 
+  
+  
+  .navbar{
+      position:fixed;
+      top:0;  
+  }
